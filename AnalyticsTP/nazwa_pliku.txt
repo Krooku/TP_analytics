@@ -1,0 +1,1 @@
+INSERT INTO `errands` (`id`, `nazwa`, `data`, `dojazd`, `holowanie`, `powrot`, `kierowca`, `cena`) VALUES (NULL, 'nowytest', '2020-10-10', '11', '11', '11', 'żąźęćńółŻĄŹĘĆŃÓŁ', '11');
